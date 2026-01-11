@@ -55,10 +55,10 @@ NumPy
 
 Matplotlib
 
-**📌 Internship**
-
-This project is completed as part of my internship at Prodigy InfoTech.
-
 Seaborn
 
 Scikit-learn
+
+**📌 Internship**
+
+This project is completed as part of my internship at Prodigy InfoTech.
