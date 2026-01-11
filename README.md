@@ -11,7 +11,7 @@ The objective of this task is to build a Decision Tree Classifier to predict whe
 
 Dataset Name: Bank Marketing Dataset
 
-Source: UCI Machine Learning Repository
+Source: https://archive.ics.uci.edu/dataset/222/bank+marketing
 
 Target Variable: y (Yes / No – whether the customer subscribed)
 
